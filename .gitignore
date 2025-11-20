@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+.tox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+.pytest_cache/
+
+# Translations
+*.mo
+
+# IPython / Jupyter
+.ipynb_checkpoints
+
+# PyCharm
+.idea/
+
+# Virtual environments
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# Pip cache and wheels
+pip-wheel-metadata/
+*.whl
+
+# Sensitive files
+*.env
+*.venv
+secrets.json
